@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyclerView"
+        android:textSize="30dp"
+        android:background="#902426">
+
+    </android.support.v7.widget.RecyclerView>
+ <!--   <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IronMan"
+        android:id="@+id/ironMan"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="America"
+        android:id="@+id/America"
+        android:layout_toRightOf="@+id/ironMan"
+        android:layout_alignBottom="@+id/ironMan"/>-->
+
+
+</RelativeLayout>

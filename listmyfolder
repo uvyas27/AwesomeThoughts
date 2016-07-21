@@ -1,0 +1,23 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 0284-6403
+
+ Directory of E:\Android\AwesomeQuotes
+
+20-07-16  11.48 AM    <DIR>          .
+20-07-16  11.48 AM    <DIR>          ..
+15-07-16  10.30 AM               105 .gitignore
+15-07-16  10.30 AM    <DIR>          .gradle
+19-07-16  10.53 PM    <DIR>          .idea
+19-07-16  09.24 AM    <DIR>          app
+15-07-16  10.30 AM               944 AwesomeQuotes.iml
+15-07-16  12.16 PM    <DIR>          build
+18-07-16  11.45 AM               521 build.gradle
+15-07-16  10.30 AM    <DIR>          gradle
+15-07-16  10.30 AM               872 gradle.properties
+15-07-16  10.30 AM             4,971 gradlew
+15-07-16  10.30 AM             2,404 gradlew.bat
+20-07-16  11.48 AM                 0 listmyfolder
+15-07-16  10.30 AM               455 local.properties
+15-07-16  10.30 AM                16 settings.gradle
+               9 File(s)         10,288 bytes
+               7 Dir(s)  209,113,255,936 bytes free
